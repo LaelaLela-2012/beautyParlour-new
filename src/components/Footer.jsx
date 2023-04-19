@@ -44,7 +44,7 @@ color: #fff;
 display: flex;
 justify-content: space-between;
 align-items: center;
-padding: 5rem 10rem;
+padding: 3rem 10rem;
 .footer__social__icons {
   display: flex;
   gap: 2rem;
