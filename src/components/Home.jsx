@@ -83,6 +83,7 @@ const Section = styled.section`
       gap: 1.2rem;
       margin-top: 6rem;
       padding-left: 6rem;
+      padding-bottom: 1rem;
       .title {
         h1 {
           font-size: 5rem;

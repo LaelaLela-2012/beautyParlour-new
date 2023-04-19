@@ -15,20 +15,19 @@ import React from 'react';
 function App() {
   return (
     <motion.div initial="hidden" animate="show">
-      
       <Home />
       <Services />
       <Portfolio />
       <Milestones />
       <Blog />
+      <Skills />
       <Pricing />
       <Testimonials />
-      <Skills />
       <Contact />
       <Footer />
       <ScrollToTop />
     </motion.div>
-  )
+  );
 }
 
 export default App
