@@ -13,7 +13,7 @@ const Div = styled.div`
 position: relative;
 h1 {
   position: absolute;
-  transform: translateX(-30%) translateY(20vw) rotate(-90deg);
+  transform: translateX(-30%) translateY(14vw) rotate(-90deg);
   font-size: 7rem;
   text-transform: uppercase;
   color: var(--secondary-color);

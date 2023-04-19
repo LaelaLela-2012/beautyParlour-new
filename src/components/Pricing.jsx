@@ -70,7 +70,7 @@ function Pricing() {
 
   return (
     <Section ref={element}>
-      <Title value="pricing" />
+      {/* <Title value="pricing" /> */}
       <div className="background">
         <img src={pricing1} alt="background" className="bg1" />
         <img src={pricing2} alt="background" className="bg2" />
@@ -138,7 +138,7 @@ function Pricing() {
 
 const Section = styled.section`
 min-height: 100vh;
-padding: 5rem 0;
+padding: 2rem 0px 5rem;
 position: relative;
 overflow: hidden;
 .background {
